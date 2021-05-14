@@ -16,8 +16,8 @@ body{
     font-family: 'Roboto Mono', monospace;
     font-size: 1.6rem;
     font-weight: 400;
-    background-color: #fff;
-    color: #2f3a6f;
+    background-color: #E4572E;
+    color: #2E282A;
     position:relative;
     z-index:1;
 }
@@ -64,7 +64,7 @@ li{
     position:relative;
     width:100%;
     min-height: 100vh;
-    background-color: #d1e2e9;
+    background-color: #FFC914;
     overflow:hidden;
 }
 
@@ -132,14 +132,14 @@ li{
         display: flex;
         align-items: center;
         justify-content: space-between;
-        background-color: #243a6f;
+        background-color: #FFC914;
         padding: 1rem 1.6rem;
     }
     .top-nav .logo{
-        color: #fff;
+        color: #2E282A;
     }
     .top-nav .close {
-        color: #fff;
+        color: #2E282A;
         font-size: 3rem;
         padding: 1rem;
         cursor: pointer;
